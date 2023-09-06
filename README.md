@@ -43,4 +43,4 @@ urlpatterns = [
 
 ```
 
-Natijani ko'rishingiz mumkin :smile:
+Natijani ko'rishingiz mumkin :blush:
